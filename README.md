@@ -1,3 +1,8 @@
+## NcuOauth
+Using laravel to implement the oauth protocal, and then do the single sign on method. So we can use this code get student information.
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
